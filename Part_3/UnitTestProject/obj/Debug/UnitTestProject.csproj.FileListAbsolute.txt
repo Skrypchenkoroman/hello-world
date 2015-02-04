@@ -1,0 +1,5 @@
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\UnitTestProject\obj\Debug\UnitTestProject.pdb

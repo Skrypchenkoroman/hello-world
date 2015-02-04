@@ -1,0 +1,6 @@
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\bin\Debug\ReflectionStudy.exe.config
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\bin\Debug\ReflectionStudy.exe
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\bin\Debug\ReflectionStudy.pdb
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\obj\Debug\ReflectionStudy.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\obj\Debug\ReflectionStudy.exe
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\ReflectionStudy\obj\Debug\ReflectionStudy.pdb

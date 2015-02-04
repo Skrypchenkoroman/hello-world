@@ -1,0 +1,6 @@
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\bin\Debug\Part_3.exe.config
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\obj\Debug\Part_3.csprojResolveAssemblyReference.cache
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\bin\Debug\Part_3.exe
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\bin\Debug\Part_3.pdb
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\obj\Debug\Part_3.exe
+c:\users\notebook\documents\visual studio 2013\Projects\Part_3\Part_3\obj\Debug\Part_3.pdb

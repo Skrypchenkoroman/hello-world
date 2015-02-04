@@ -1,0 +1,6 @@
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\bin\Debug\Test1.exe.config
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\bin\Debug\Test1.exe
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\bin\Debug\Test1.pdb
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\obj\Debug\Test1.exe
+C:\Users\NOTEBOOK\documents\visual studio 2013\Projects\Part_3\Test1\obj\Debug\Test1.pdb
